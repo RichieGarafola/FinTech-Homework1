@@ -57,28 +57,30 @@
 
 ### <h3 align = "center">*Impacts*</h3>   
 
-- Has partnerships with banks - Ripple collaborates with hundreds of financial institutions worldwide. American Express and Santander, Bank of America, SBI Holdings, MoneyGram, DBS, Royal Bank of Canada just to name a few. 
+- *Has partnerships with banks* - Ripple collaborates with hundreds of financial institutions worldwide. American Express and Santander, Bank of America, SBI Holdings, MoneyGram, DBS, Royal Bank of Canada just to name a few. 
     
-- Transaction Protocol - Ripple's transaction logs are used for many purposes, including cryptocurrency transfers, fiat currency, and information. This protocol can handle large transactions around the world and is offered with relatively low fees.
+- *Transaction Protocol* - Ripple's transaction logs are used for many purposes, including cryptocurrency transfers, fiat currency, and information. This protocol can handle large transactions around the world and is offered with relatively low fees.
     
-- Rate of Interest -  As it is being adopted worldwide, there has been a stable increment in Ripple’s price.
+- *Rate of Interest* -  As it is being adopted worldwide, there has been a stable increment in Ripple’s price.
     
-- Accessibility - Below are a list of global crypto exchanges that allow you to trade Ripple (XRP).
+- *Accessibility* - Below are a list of global crypto exchanges that allow you to trade Ripple (XRP).
+    
+    
 |             |             |
 | ----------- | ----------- |
 | [Binance](https://www.binance.us/en/home) | [Huobi Global](https://www.huobi.com/en-us/)  |
 | [Bithumb](https://www.bithumb.com/) | [Bitstamp](https://www.bitstamp.net/)  |
 | [FTX](https://ftx.us/?)     | [Bitfinex](https://www.bitfinex.com/)  |
-| [Poloniex](https://poloniex.com/)| [eToro](https://www.etoro.com/)
-| [Liquid](https://www.liquid.com/)  | [Gate.io](https://www.gate.io/)
-| [WazirX](https://wazirx.com/)  | [Phemex](https://phemex.com/)
+| [Poloniex](https://poloniex.com/)| [eToro](https://www.etoro.com/) |
+| [Liquid](https://www.liquid.com/)  | [Gate.io](https://www.gate.io/) |
+| [WazirX](https://wazirx.com/)  | [Phemex](https://phemex.com/) |
     
     
-- Scalability - Ripple will grow higher in the future. Generally, has no connection with the external market shocks and price volatilities. What makes Ripple an exception from other cryptocurrencies is, it has a huge market cap, and it utilizes consensus ledgers when it comes to transactions. 
+- *Scalability* - Ripple will grow higher in the future. Generally, has no connection with the external market shocks and price volatilities. What makes Ripple an exception from other cryptocurrencies is, it has a huge market cap, and it utilizes consensus ledgers when it comes to transactions. 
     
-- Public Relations - Raise brand awareness by building its culture and image in the eyes of the general public as well as commercial enthusiasts.
+- *Public Relations* - Raise brand awareness by building its culture and image in the eyes of the general public as well as commercial enthusiasts.
     
-- Low Fees -  Ripple has a speedy transaction time and comparably low transaction fees.  
+- *Low Fees* -  Ripple has a speedy transaction time and comparably low transaction fees.  
     
     
     
