@@ -2,14 +2,14 @@
 
 <div class="alert alert-block alert-info">
 
-    
+---    
 # <h1 align = "center">*Ripple*</h1>
- 
+--- 
  
 <img src="Fintech Bootcamp/RiplePic.jpg" style="width:800px;height:300px;">
     
 # <h3 align = "center">*Overview and Origin*</h3>
-
+---
  
     
 > Chris Larsen and Jed McCaleb founded Ripple, a payment processing and remittance company, in 2012. Ripple uses an asset exchange and remittance system similar to the bank's SWIFT system for international money transfers. Using an open source decentralized peer-to-peer platform, Ripple allows for seamless money transfers in any currency, whether it's fiat money in the form of dollars, pounds, yen or euros or cryptocurrency in the form of Litecoin, Bitcoin or Ethereum. With major financial institutions and banks among its customers, Ripple is a global payment network. XRP is used in its products to facilitate quick conversion between different currencies.
@@ -19,6 +19,7 @@
 
 
 ### <h3 align = "center">*Major trends and innovations of this domain over the last 5-10 years*</h3>
+---    
 *Ripple is amongst the leading innovators in the Blockchain / Computer Technology domain of the financial industry.*   
 
     
@@ -39,7 +40,7 @@
     
     
 ### <h3 align = "center">*Major companies in this domain*</h3>  
-
+---
     
     
     
@@ -56,6 +57,7 @@
 
 
 ### <h3 align = "center">*Impacts*</h3>   
+---
 
 - **Has partnerships with banks** - Ripple collaborates with hundreds of financial institutions worldwide. American Express and Santander, Bank of America, SBI Holdings, MoneyGram, DBS, Royal Bank of Canada just to name a few. 
     
@@ -85,7 +87,7 @@
     
     
 ### <h3 align = "center">*Core metrics this domain uses to measure success*</h3>   
-
+---
     
 - **Active Nodes (Active Addresses)** - This is calculated by compiling and recording how many unique nodes are active during a predetermined time frame, such as per day, per week, or per month. The greater the number of unauthorized blockchains, the more nodes are using and trusting the blockchain. The value of the active node is usually available on all participating nodes.
 
@@ -109,13 +111,13 @@
     
     
 ### <h3 align = "center">*Performance relative to competitors*</h3>   
-
+---
     
 Blockchain solutions are in demand by banks, financial institutions, government agencies and corporations alike because they facilitate near-instant transaction processing on a decentralized ledger that is accessible via the Internet and mobile based software. This is what Ripple provides, and it has the capability to transform cross-border transactions into an instant communication system, where moving from one currency to another takes only a few seconds rather than days! By participating in Ripple, banks, payment providers, exchanges and businesses will be able to accommodate many commercial use cases. Some commercial use cases include: eInvoicing, International Supply Chain Payment, Global Currency Account, Real Time Cash Pooling,  International Invoice Payment, Real Time Wire Transfer and International  P2P Payment.
     
     
 ### <h3 align = "center">*My 2-cents*</h3>   
-
+---
     
 It would be extremely beneficial and incentivize investors to become long term holders if decentralized finance (DeFi) was incorporated into Ripples business model as crypto staking and investment services are appealing to the masses. Gives users more control over their money through personal wallets and trading services that cater to individuals.
     
@@ -124,7 +126,7 @@ Since all the XRP coins are pre-mined and already in circulation, a limited supp
 
 
 ### <h3 align = "center">*SOURCES USED*</h3>  
-
+---
 
 - https://ripple.com/xrp/
 - https://ripple.com/build/xrp-ledger-consensus-process/
