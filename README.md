@@ -5,9 +5,9 @@
 ---    
 # <h1 align = "center">*Ripple*</h1>
 --- 
+<img src="https://user-images.githubusercontent.com/99199925/157352296-e4ed5e27-8fb9-4de5-8975-c7bdfc34271e.jpg" style="width:1000px;height:500px;">
  
-<img src="Fintech Bootcamp/RiplePic.jpg" style="width:800px;height:300px;">
-    
+ 
 # <h3 align = "center">*Overview and Origin*</h3>
 ---
  
